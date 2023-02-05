@@ -5,3 +5,7 @@
 #copied.is-visible {
     opacity: 1;
 }
+
+#text-answer{
+    cursor: copy;
+}
