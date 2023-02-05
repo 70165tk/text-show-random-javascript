@@ -1,0 +1,7 @@
+#copied {
+    opacity: 0;
+}
+
+#copied.is-visible {
+    opacity: 1;
+}
